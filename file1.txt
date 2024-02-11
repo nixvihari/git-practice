@@ -16,3 +16,9 @@ fg
 h
 sfg
 hsfdshdgfjszdghsgxfjdsfg
+
+
+
+//new feature 
+print("Hello")
+print("Awesome")
